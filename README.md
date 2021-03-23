@@ -1,5 +1,4 @@
 # Demo
 
-Hi
-How are you?
+This is a Sample File.
 
